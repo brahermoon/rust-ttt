@@ -8,3 +8,7 @@ pub(crate) trait  Repository{
 pub(crate) struct PlayerRepository{
 
 }
+
+impl PlayerRepository {
+    
+}
